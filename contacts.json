@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Mary Jane",
+        "gender": "Female"
+    },
+    {
+        "name": "Peter Parker",
+        "gender": "Male"
+    },
+    {
+        "name": "Miles Morales",
+        "gender": "Male"
+    },
+    {
+        "name": "Gwen Stacy",
+        "gender": "Female"
+    },{
+        "name": "May Parker",
+        "gender": "Female"
+    }
+    ]
